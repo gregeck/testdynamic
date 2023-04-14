@@ -4,6 +4,6 @@
     <title>Hello World</title>
 </head>
 <body>
-    <% Response.Write("Hello World") %>
+    < Response.Write("Hello World") >
 </body>
 </html>
